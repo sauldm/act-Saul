@@ -12,3 +12,7 @@ Este repositorio también gestiona el control de versiones a través de **Git** 
 - **Petición HTTP**: Registro de todas las peticiones entrantes a la API.
 - **Control de versiones**: Uso de ramas, merges, commits y etiquetas para mantener el código organizado y facilitar la colaboración.
 - **Entorno de desarrollo**: Node.js, Express, Git.
+
+
+# Actualizacion registro de peticiones HTTP
+En esta parte del proyecto, hemos añadido una nueva funcionalidad en el backend para registrar todas las peticiones HTTP que se realicen a la API.
